@@ -1,5 +1,5 @@
 # ADA_final_project
-Final project for my Advanced Data Analysis 2021 class
+Final project for my Advanced Data Analysis 2021 class - LR, KNN, DTC, Multilayer Perceptrons, SVC
 
 Music Classification and Nearest Neighbors Music Transition
 
